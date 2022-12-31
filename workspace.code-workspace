@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\_ОТЛАДКА САЙТОВ\\Для VSCode"
+		},
+		{
+			"path": "..\\..\\_ОТЛАДКА САЙТОВ\\Для CSS"
+		},
+		{
+			"path": "..\\..\\_ОТЛАДКА САЙТОВ\\Resume"
+		},
+		{
+			"path": "..\\..\\_ОТЛАДКА САЙТОВ\\Project_1"
+		},
+		{
+			"path": "..\\PROJECT1"
+		},
+		{
+			"path": "..\\PROJECT2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROJECT1"
+	}
+}
